@@ -1,0 +1,20 @@
+{
+  "name": "webdriverio-page-objects",
+  "version": "1.0.0",
+  "description": "Demo of WebdriverIO page objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilkk/webdriverio-page-objects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilkk/webdriverio-page-objects/issues"
+  },
+  "homepage": "https://github.com/anilkk/webdriverio-page-objects#readme"
+}
